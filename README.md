@@ -1,121 +1,142 @@
-# Harsh Negi
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Harsh%20Negi&fontColor=ffffff&fontSize=72&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Competitive%20Programmer&descAlignY=60&descSize=18" width="100%"/>
+</div>
 
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1a1a2e,100:00ff9d&text=Harsh%20Negi&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=20" alt="banner" width="100%"/>
+  <a href="https://github.com/HarshNegi0927">
+    <img src="https://img.shields.io/badge/GitHub-HarshNegi0927-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Harshnegi2005">
+    <img src="https://img.shields.io/badge/Codeforces-Expert%20%7C%201700%2B-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/HarshNegi">
+    <img src="https://img.shields.io/badge/LeetCode-1700%2B%20Rating-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=HarshNegi0927&style=flat-square&color=6C3AC7&label=Profile+Views"/>
 </div>
 
 ---
 
 ## About Me
 
-Building **scalable, elegant solutions** at the intersection of web development, machine learning, and competitive programming. I'm passionate about solving complex problems through clean code and innovative design.
+B.Tech Mechanical Engineering student at **MNNIT Allahabad** building at the intersection of **data engineering**, **ML systems**, and **full-stack development**. I care about writing clean code that scales — from CCTV analytics pipelines to agentic AI workflows.
 
-Currently sharpening expertise in **System Design** and **Advanced Algorithms** while contributing to open-source projects. Based at **MNNIT Allahabad**, I specialize in transforming ideas into production-ready applications that users love.
-
-### Core Competencies
-
-**Full Stack Development** · Building modern web applications with React, Next.js, and Node.js  
-**Machine Learning** · Data analysis, predictive modeling, and intelligent systems  
-**Competitive Programming** · Algorithm optimization, problem-solving, and system design  
-**Architecture** · Designing scalable systems with focus on performance and maintainability
+Currently focused on:
+- 🏗️ End-to-end ML systems — from model training to production APIs
+- 📊 Data pipelines with Airflow, dbt, Spark, and Kafka
+- 🤖 Agentic AI with LangGraph and tool-use workflows
+- ⚡ Competitive programming — Codeforces Expert, 1000+ problems solved
 
 ---
 
-## Technology Ecosystem
+## Tech Stack
 
-### Languages & Frameworks
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express&perline=8" height="48" alt="tech stack"/>
-</div>
-
-### Data & Infrastructure
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,tailwind,git,linux,aws&perline=6" height="48" alt="databases and tools"/>
-</div>
-
----
-
-## Competitive Programming Journey
-
-**Codeforces Specialist** with **1777+ rating**  
-2000+ problems solved across various platforms
-
-**Strengths:** Graphs, Dynamic Programming, Number Theory, Combinatorics  
-**Active Participation:** Div 2 Regular, Occasional Div 1 contestant
-
-Competitive programming isn't just a hobby—it's where I sharpen my algorithmic thinking and discover elegant solutions to complex problems. Every contest teaches me something new about optimization and problem-solving approaches.
-
----
-
-## Featured Work
-
-### Flight Price Prediction
-**Python · Scikit-Learn · Pandas**
-
-Machine learning model that accurately predicts airline ticket prices by analyzing historical data, market trends, and seasonal patterns. The model helps users identify optimal booking windows and understand pricing dynamics.
-
-### SaaS Clerk Platform
-**Next.js · TypeScript · Clerk · Tailwind CSS**
-
-Full-stack Software as a Service application featuring modern authentication, user management, and scalable architecture. Built with performance and security as core principles, supporting seamless user onboarding and engagement.
-
-### Smart India Hackathon Award-Winner
-**React · JavaScript · Node.js · MongoDB**
-
-Innovation-focused project that earned recognition at Smart India Hackathon. Demonstrates practical problem-solving and ability to build solutions that matter in real-world contexts.
-
-### Budget Tracker Dashboard
-**MERN Stack · Chart.js · Real-time Analytics**
-
-Intelligent expense tracking application with advanced analytics, automated categorization, and insightful visualizations. Helps users understand spending patterns and make informed financial decisions with beautiful, intuitive UI.
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshNegi0927&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=c9cacc&rank_icon=github" alt="GitHub Stats"/>
-  
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNegi0927&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9cacc" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=HarshNegi0927&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=FF1744&currStreakNum=00FF9D&currStreakLabel=00FF9D&sideNums=C9CACC&sideLabels=C9CACC" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshNegi0927&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF9D&line=00FF9D&point=00FF9D" alt="Contribution Graph"/>
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshNegi0927&theme=tokyonight&no-frame=true&column=7&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
-## Let's Connect
-
-Interested in collaborating, discussing tech, or exploring opportunities? I'm always excited to connect with fellow developers, creators, and innovators.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-HarshNegi0927-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshNegi0927)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Harshnegi2005-0066cc?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Harshnegi2005)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--4216--4897-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4216-4897)
-
+**Languages**
 <br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql" height="40"/>
 
-<img src="https://komarev.com/ghpvc/?username=HarshNegi0927&style=for-the-badge&color=00ff9d" alt="Profile Views"/>
+**ML / Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" height="40"/>
+&nbsp;
+<img src="https://img.shields.io/badge/YOLOv8-00ADEF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+" />
+&nbsp;
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
+**Backend / Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,docker,aws,linux" height="40"/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" height="40"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ChromaDB-4A154B?style=flat-square"/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" height="40"/>
+
+---
+
+## Projects
+
+### 🏪 Store Intelligence System
+**YOLOv8 · ByteTrack · FastAPI · PostgreSQL · React · Docker**
+
+End-to-end retail CCTV analytics platform built for the **Purplle Engineering Hiring Challenge 2026**. Detects and tracks customers in real-time, computes dwell time and zone heatmaps, stores structured analytics in PostgreSQL, and surfaces insights via a React dashboard — all containerized with Docker Compose and tested at 82% coverage with Pytest.
+
+---
+
+### 📊 Decoding Customer Value: A Data-Driven Retention Strategy
+**SQL · Power BI · RFM Analysis**
+
+Customer segmentation and retention project certified by the **Consulting & Analytics Club, IIT Guwahati (Summer Projects '26)**. Built RFM scoring, cohort analysis, and churn prediction logic in SQL; visualized segment-wise insights in an interactive Power BI dashboard.
+
+---
+
+### ✈️ Flight Price Prediction
+**XGBoost · AWS SageMaker · Streamlit**
+
+ML model (R² ≈ 0.81) trained on historical flight data to predict ticket prices. Deployed end-to-end on AWS SageMaker with a Streamlit frontend, handling cross-version model compatibility via XGBoost JSON format.
+
+---
+
+### 🤖 Autonomous Data Analysis Agent *(In Progress)*
+**LangGraph · Groq · ChromaDB · Streamlit**
+
+Agentic AI system that autonomously plans and executes multi-step data analysis tasks — tool-calling, memory retrieval via ChromaDB, and sandboxed code execution. Powered by Llama 3.1 70B via Groq free tier.
+
+---
+
+## Competitive Programming
+
+<div align="center">
+
+| Platform | Handle | Achievement |
+|----------|--------|-------------|
+| Codeforces | [Harshnegi2005](https://codeforces.com/profile/Harshnegi2005) | **Expert** · 1700+ Rating |
+| LeetCode | [HarshNegi](https://leetcode.com/HarshNegi) | 1700+ Rating · 1000+ Problems |
+
+</div>
+
+Strong in **Graphs · Dynamic Programming · Number Theory · Combinatorics**
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HarshNegi0927&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9cacc&rank_icon=github"/>
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNegi0927&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9cacc"/>
+</div>
+
+<div align="center">
+  <img width="82%" src="https://github-readme-streak-stats.herokuapp.com?user=HarshNegi0927&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=FF6B6B&currStreakNum=a78bfa&currStreakLabel=a78bfa&sideNums=C9CACC&sideLabels=C9CACC"/>
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshNegi0927&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a78bfa&line=a78bfa&point=a78bfa"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1a1a2e,100:00ff9d&section=footer&textColor=00ff9d&fontSize=18&text=Let%27s%20Build%20Something%20Extraordinary" alt="footer" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshNegi0927&theme=tokyonight&no-frame=true&column=7&row=1&margin-w=8"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&section=footer" width="100%"/>
 </div>
