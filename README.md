@@ -1,5 +1,6 @@
 # Harsh Negi
 
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1a1a2e,100:00ff9d&text=Harsh%20Negi&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=20" alt="banner" width="100%"/>
 </div>
