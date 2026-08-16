@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,40:0d0d1a,70:1a0533,100:2d1b69&text=Harsh%20Negi&fontColor=c084fc&fontSize=72&animation=fadeIn&fontAlignY=36&desc=ML%20Engineer%20%C2%B7%20Data%20Engineer%20%C2%B7%20Competitive%20Programmer&descAlignY=54&descSize=17&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0A1929,100:15304A&text=HARSH%20NEGI&fontColor=4FD1E8&fontSize=56&fontAlignY=40&desc=ML%20Engineer%20%C2%B7%20Data%20Engineer%20%C2%B7%20Competitive%20Programmer&descAlignY=68&descSize=15&descColor=E8EDF2&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=FF8A3D" width="100%"/>
 </div>
 
 <p align="center">
@@ -7,45 +8,25 @@
   <a href="https://github.com/HarshNegi0927"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/Harshnegi2005"><img src="https://img.shields.io/badge/Codeforces-Expert_1700+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="https://leetcode.com/HarshNegi"><img src="https://img.shields.io/badge/LeetCode-1700+_·_1000+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=HarshNegi0927&style=for-the-badge&color=7c3aed&label=VIEWS"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=0A1929&label=VIEWS&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FHarshNegi0927%2Freadme&style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+end-to-end+ML+systems+%26+data+pipelines;Agentic+AI+%C2%B7+Real-time+Analytics+%C2%B7+Full+Stack;Codeforces+Expert+%C2%B7+1000%2B+problems+solved" alt="Typing SVG" />
-</p>
+<p align="center"><sub><b>GENERAL NOTES</b> — Building end-to-end ML systems, data pipelines, and agentic AI workflows, from real-time CCTV analytics to LLM-driven agents. Codeforces Expert with 1000+ problems solved across platforms.</sub></p>
+
+<br/>
+
+| | |
+|---|---|
+| **TITLE** | Data & ML Systems Portfolio |
+| **DISCIPLINE** | Mechanical Engineering → Data / ML / Analytics |
+| **ORIGIN** | MNNIT Allahabad · B.Tech ME · CPI 7.54 |
+| **STATUS** | Open to Data Analyst · Data Scientist · Data Engineer · SDE roles |
 
 ---
 
-### 👋 About Me
+<sub>SHEET 1 / 4</sub>
 
-B.Tech Mechanical Engineering student at **MNNIT Allahabad**, building end-to-end ML systems, data pipelines, and agentic AI workflows — from real-time CCTV analytics to LLM-driven agents.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎓 Education**
-MNNIT Allahabad · B.Tech Mechanical Engineering · CPI 7.54
-
-**🔭 Currently**
-Building ML pipelines and agentic AI workflows for production
-
-</td>
-<td width="50%" valign="top">
-
-**🎯 Focus**
-ML Systems · Data Engineering · Agentic AI · Full Stack
-
-**💼 Open To**
-Data Analyst · Data Scientist · Data Engineer · SDE roles
-
-</td>
-</tr>
-</table>
-
----
-
-### 🛠️ Tech Stack
+### Bill of Materials
 
 <p align="center">
 <b>Languages</b><br/>
@@ -96,52 +77,64 @@ Data Analyst · Data Scientist · Data Engineer · SDE roles
 
 ---
 
-### 🚀 Featured Projects
+<sub>SHEET 2 / 4</sub>
+
+### Project Drawings
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🏪 Store Intelligence System
-<sup>`Featured` · Purplle Engineering Hiring Challenge 2026</sup>
+<code>DWG NO. 001</code> <img src="https://img.shields.io/badge/STATUS-FEATURED-FF8A3D?style=flat-square&labelColor=0A1929"/>
+
+#### Store Intelligence System
+<sub>Purplle Engineering Hiring Challenge 2026</sub>
 
 `YOLOv8` `ByteTrack` `FastAPI` `PostgreSQL` `React` `Docker`
 
-End-to-end CCTV retail analytics — real-time person tracking, zone heatmaps, React dashboard, fully containerized.
+Real-time CCTV retail analytics — person tracking, zone heatmaps, containerized React dashboard.
 
-**82% Pytest coverage**
+**TOLERANCE** 82% Pytest coverage
 
 </td>
 <td width="50%" valign="top">
 
-#### 📊 Decoding Customer Value
-<sup>Certified — IIT Guwahati C&A Club, Summer '26</sup>
+<code>DWG NO. 002</code> <img src="https://img.shields.io/badge/STATUS-CERTIFIED-FF8A3D?style=flat-square&labelColor=0A1929"/>
+
+#### Decoding Customer Value
+<sub>IIT Guwahati C&A Club, Summer '26</sub>
 
 `SQL` `RFM Analysis` `Power BI` `Cohort Analysis`
 
-Retention strategy with RFM scoring, churn prediction in SQL, and an interactive Power BI dashboard.
+Retention strategy — RFM scoring, churn prediction in SQL, interactive Power BI dashboard.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### ✈️ Flight Price Prediction
-<sup>Deployed on AWS SageMaker</sup>
+<code>DWG NO. 003</code> <img src="https://img.shields.io/badge/STATUS-DEPLOYED-FF8A3D?style=flat-square&labelColor=0A1929"/>
+
+#### Flight Price Prediction
+<sub>AWS SageMaker</sub>
 
 `XGBoost` `AWS SageMaker` `Streamlit`
 
-ML model achieving **R² ≈ 0.81**, cross-version compatibility via XGBoost JSON format, live Streamlit frontend.
+Cross-version compatible via XGBoost JSON format, live Streamlit frontend.
+
+**PRECISION** R² ≈ 0.81
 
 </td>
 <td width="50%" valign="top">
 
-#### 🤖 Autonomous Data Analysis Agent
-<sup>`In Progress`</sup>
+<code>DWG NO. 004</code> <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-FF8A3D?style=flat-square&labelColor=0A1929"/>
+
+#### Autonomous Data Analysis Agent
+<sub>Multi-agent system</sub>
 
 `LangGraph` `Groq / Llama 3.1 70B` `ChromaDB` `E2B`
 
-Agentic AI with multi-step planning, tool-calling, RAG memory via ChromaDB, and sandboxed code execution.
+Multi-step planning, tool-calling, RAG memory via ChromaDB, sandboxed code execution.
 
 </td>
 </tr>
@@ -149,7 +142,9 @@ Agentic AI with multi-step planning, tool-calling, RAG memory via ChromaDB, and 
 
 ---
 
-### 🏆 Competitive Programming
+<sub>SHEET 3 / 4</sub>
+
+### Precision Work
 
 <div align="center">
 
@@ -164,27 +159,26 @@ Agentic AI with multi-step planning, tool-calling, RAG memory via ChromaDB, and 
 
 ---
 
-### 📈 GitHub Stats
+<sub>SHEET 4 / 4</sub>
+
+### Activity Log
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshNegi0927&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=c084fc&icon_color=a78bfa&text_color=c9cacc&rank_icon=github"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNegi0927&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=c084fc&text_color=c9cacc&langs_count=6"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshNegi0927&show_icons=true&hide_border=false&bg_color=0A1929&title_color=4FD1E8&icon_color=FF8A3D&text_color=E8EDF2&border_color=2A4A6B&rank_icon=github"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNegi0927&layout=compact&hide_border=false&bg_color=0A1929&title_color=4FD1E8&text_color=E8EDF2&border_color=2A4A6B&langs_count=6"/>
 </div>
 
 <div align="center">
-  <img width="82%" src="https://github-readme-streak-stats.herokuapp.com?user=HarshNegi0927&theme=tokyonight&hide_border=true&background=161b22&stroke=7c3aed&ring=c084fc&fire=f472b6&currStreakNum=c084fc&currStreakLabel=c084fc&sideNums=C9CACC&sideLabels=C9CACC"/>
+  <img width="82%" src="https://github-readme-streak-stats.herokuapp.com?user=HarshNegi0927&hide_border=false&background=0A1929&border=2A4A6B&stroke=2A4A6B&ring=FF8A3D&fire=FF8A3D&currStreakNum=4FD1E8&currStreakLabel=4FD1E8&sideNums=E8EDF2&sideLabels=E8EDF2&dates=6B8CAE"/>
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshNegi0927&theme=tokyo-night&hide_border=true&bg_color=161b22&color=c084fc&line=7c3aed&point=c084fc&area=true"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshNegi0927&bg_color=0A1929&color=4FD1E8&line=FF8A3D&point=4FD1E8&area=true&hide_border=false&border_color=2A4A6B"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshNegi0927&theme=tokyonight&no-frame=true&column=7&row=1&margin-w=6"/>
-</div>
-
----
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2d1b69,60:1a0533,100:000000&section=footer&text=Open%20to%20opportunities&fontColor=a78bfa&fontSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=FF8A3D" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:15304A,100:0A1929&section=footer&text=OPEN%20TO%20OPPORTUNITIES&fontColor=4FD1E8&fontSize=18&fontAlignY=55&animation=fadeIn" width="100%"/>
 </div>
